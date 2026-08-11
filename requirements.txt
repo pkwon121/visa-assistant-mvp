@@ -1,0 +1,9 @@
+streamlit==1.40.0
+requests
+python-dotenv
+google-cloud-aiplatform>=1.71.0
+python-docx==1.1.2
+pillow
+google-cloud-firestore>=2.16.0
+google-cloud-kms>=2.21.0
+google-cloud-discoveryengine>=0.13.0
